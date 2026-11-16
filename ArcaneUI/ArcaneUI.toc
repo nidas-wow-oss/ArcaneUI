@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: |cff40A8FFArcane|rUI
+## Notes: Complete ArcaneBlue visual overhaul — replaces all Blizzard UI textures, frames, and unit frames.
+## Author: Nidhaus
+## Version: 1.0
+## SavedVariables: ArcaneUI_DB
+## DefaultState: enabled
+
+ArcaneUI_Core.lua
+ArcaneUI_Skin.lua
+ArcaneUI_Polish.lua
+ArcaneUI_UnitFrames.lua
+ArcaneUI_Bars.lua
+ArcaneUI_Character.lua
+ArcaneUI_LoD.lua
+ArcaneUI_Social.lua
+ArcaneUI_Trade.lua
+ArcaneUI_BlizzFrames.lua
